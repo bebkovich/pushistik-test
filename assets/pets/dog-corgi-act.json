@@ -1,0 +1,205 @@
+{
+  "frames": {
+    "walk": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 371,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 371,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 371,
+        "h": 305
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9869
+      }
+    },
+    "walk2": {
+      "frame": {
+        "x": 445,
+        "y": 0,
+        "w": 367,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 367,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 367,
+        "h": 305
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9869
+      }
+    },
+    "bow": {
+      "frame": {
+        "x": 890,
+        "y": 0,
+        "w": 353,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 353,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 298
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9866
+      }
+    },
+    "jump": {
+      "frame": {
+        "x": 1335,
+        "y": 0,
+        "w": 357,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 357,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 357,
+        "h": 284
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9859
+      }
+    },
+    "chew": {
+      "frame": {
+        "x": 0,
+        "y": 342,
+        "w": 381,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 381,
+        "h": 169
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9763
+      }
+    },
+    "sniff": {
+      "frame": {
+        "x": 445,
+        "y": 342,
+        "w": 376,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 376,
+        "h": 325
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9877
+      }
+    },
+    "lie": {
+      "frame": {
+        "x": 890,
+        "y": 342,
+        "w": 445,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 445,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 445,
+        "h": 250
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.984
+      }
+    },
+    "groom": {
+      "frame": {
+        "x": 1335,
+        "y": 342,
+        "w": 279,
+        "h": 342
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 342
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 342
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9883
+      }
+    }
+  },
+  "meta": {
+    "image": "dog-corgi-act.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1780,
+      "h": 684
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "walk": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 272
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9853
+      }
+    },
+    "walk2": {
+      "frame": {
+        "x": 520,
+        "y": 0,
+        "w": 388,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 388,
+        "h": 274
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9854
+      }
+    },
+    "bow": {
+      "frame": {
+        "x": 1040,
+        "y": 0,
+        "w": 460,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 203
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9803
+      }
+    },
+    "jump": {
+      "frame": {
+        "x": 0,
+        "y": 382,
+        "w": 474,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 474,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 474,
+        "h": 262
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9847
+      }
+    },
+    "chew": {
+      "frame": {
+        "x": 520,
+        "y": 382,
+        "w": 479,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 479,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 479,
+        "h": 150
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9733
+      }
+    },
+    "sniff": {
+      "frame": {
+        "x": 1040,
+        "y": 382,
+        "w": 411,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 411,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 411,
+        "h": 271
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9852
+      }
+    },
+    "scratch": {
+      "frame": {
+        "x": 0,
+        "y": 764,
+        "w": 356,
+        "h": 382
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 356,
+        "h": 382
+      },
+      "sourceSize": {
+        "w": 356,
+        "h": 382
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9895
+      }
+    },
+    "lie": {
+      "frame": {
+        "x": 520,
+        "y": 764,
+        "w": 520,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 224
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9821
+      }
+    },
+    "groom": {
+      "frame": {
+        "x": 1040,
+        "y": 764,
+        "w": 332,
+        "h": 308
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 308
+      },
+      "sourceSize": {
+        "w": 332,
+        "h": 308
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.987
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-scottish-act.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1560,
+      "h": 1146
+    },
+    "scale": "1"
+  }
+}

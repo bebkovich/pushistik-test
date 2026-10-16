@@ -1,0 +1,2 @@
+corgi-gobkit.glb — Corgi из Gobkit Free Animal Pack, CC0 1.0 (https://github.com/Ariescar/gobkit-free-assets). Временная модель для пробы 3D.
+shiba-quaternius.glb — Shiba Inu из Ultimate Animated Animal Pack, Quaternius, CC0 1.0 (https://quaternius.com/packs/ultimateanimatedanimals.html, https://poly.pizza/m/y4wdQpg767). Временная модель для пробы 3D.

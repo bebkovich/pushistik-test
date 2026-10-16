@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 452
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 493,
+        "y": 0,
+        "w": 444,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 444,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 444,
+        "h": 354
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9887
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 986,
+        "y": 0,
+        "w": 493,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 493,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 493,
+        "h": 289
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9862
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 496,
+        "w": 470,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 470,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 446
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.991
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 493,
+        "y": 496,
+        "w": 379,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 379,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 379,
+        "h": 496
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9919
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 986,
+        "y": 496,
+        "w": 432,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 432,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 432,
+        "h": 274
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9854
+      }
+    }
+  },
+  "meta": {
+    "image": "dog-corgi-teen.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1479,
+      "h": 992
+    },
+    "scale": "1"
+  }
+}

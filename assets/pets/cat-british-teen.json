@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 391,
+        "h": 439
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 391,
+        "h": 439
+      },
+      "sourceSize": {
+        "w": 391,
+        "h": 439
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9909
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 494,
+        "y": 0,
+        "w": 442,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 362
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.989
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 988,
+        "y": 0,
+        "w": 494,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 494,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 272
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9853
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 487,
+        "w": 431,
+        "h": 467
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 431,
+        "h": 467
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 467
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9914
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 494,
+        "y": 487,
+        "w": 346,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 346,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 346,
+        "h": 487
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9918
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 988,
+        "y": 487,
+        "w": 485,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 270
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9852
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-british-teen.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1482,
+      "h": 974
+    },
+    "scale": "1"
+  }
+}

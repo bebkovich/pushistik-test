@@ -1,0 +1,109 @@
+{
+  "frames": {
+    "mouse": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 392,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 392,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 392,
+        "h": 197
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9797
+      }
+    },
+    "treat-fish": {
+      "frame": {
+        "x": 392,
+        "y": 0,
+        "w": 293,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 293,
+        "h": 206
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9806
+      }
+    },
+    "treat-bone": {
+      "frame": {
+        "x": 0,
+        "y": 241,
+        "w": 303,
+        "h": 213
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 303,
+        "h": 213
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9812
+      }
+    },
+    "duck": {
+      "frame": {
+        "x": 392,
+        "y": 241,
+        "w": 231,
+        "h": 241
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 231,
+        "h": 241
+      },
+      "sourceSize": {
+        "w": 231,
+        "h": 241
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9834
+      }
+    }
+  },
+  "meta": {
+    "image": "items-extra.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 784,
+      "h": 482
+    },
+    "scale": "1"
+  }
+}

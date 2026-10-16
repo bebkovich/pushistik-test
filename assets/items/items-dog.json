@@ -1,0 +1,205 @@
+{
+  "frames": {
+    "bowl-full": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 157
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9745
+      }
+    },
+    "bowl-empty": {
+      "frame": {
+        "x": 328,
+        "y": 0,
+        "w": 244,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 244,
+        "h": 147
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9728
+      }
+    },
+    "bone": {
+      "frame": {
+        "x": 656,
+        "y": 0,
+        "w": 241,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 241,
+        "h": 124
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9677
+      }
+    },
+    "bed": {
+      "frame": {
+        "x": 984,
+        "y": 0,
+        "w": 318,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 185
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9784
+      }
+    },
+    "rope": {
+      "frame": {
+        "x": 0,
+        "y": 263,
+        "w": 328,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 328,
+        "h": 166
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9759
+      }
+    },
+    "ball": {
+      "frame": {
+        "x": 328,
+        "y": 263,
+        "w": 181,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 183
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9781
+      }
+    },
+    "leash": {
+      "frame": {
+        "x": 656,
+        "y": 263,
+        "w": 310,
+        "h": 231
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 231
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9827
+      }
+    },
+    "duck": {
+      "frame": {
+        "x": 984,
+        "y": 263,
+        "w": 241,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 241,
+        "h": 263
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9848
+      }
+    }
+  },
+  "meta": {
+    "image": "items-dog.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1312,
+      "h": 526
+    },
+    "scale": "1"
+  }
+}

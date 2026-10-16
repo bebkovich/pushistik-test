@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 474
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 474
+      },
+      "sourceSize": {
+        "w": 325,
+        "h": 474
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9916
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 481,
+        "y": 0,
+        "w": 460,
+        "h": 355
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 355
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9887
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 962,
+        "y": 0,
+        "w": 481,
+        "h": 316
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 481,
+        "h": 316
+      },
+      "sourceSize": {
+        "w": 481,
+        "h": 316
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9873
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 520,
+        "w": 476,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 476,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 476,
+        "h": 455
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 481,
+        "y": 520,
+        "w": 322,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 322,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 322,
+        "h": 520
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9923
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 962,
+        "y": 520,
+        "w": 450,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 450,
+        "h": 261
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9847
+      }
+    }
+  },
+  "meta": {
+    "image": "dog-chihuahua-teen.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1443,
+      "h": 1040
+    },
+    "scale": "1"
+  }
+}

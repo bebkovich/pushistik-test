@@ -1,0 +1,109 @@
+{
+  "frames": {
+    "vase": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 235
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 235
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 235
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.983
+      }
+    },
+    "vase-fallen": {
+      "frame": {
+        "x": 328,
+        "y": 0,
+        "w": 328,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 328,
+        "h": 157
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9745
+      }
+    },
+    "slipper": {
+      "frame": {
+        "x": 0,
+        "y": 235,
+        "w": 292,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 174
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.977
+      }
+    },
+    "slipper-chewed": {
+      "frame": {
+        "x": 328,
+        "y": 235,
+        "w": 303,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 303,
+        "h": 173
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9769
+      }
+    }
+  },
+  "meta": {
+    "image": "mischief.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 656,
+      "h": 470
+    },
+    "scale": "1"
+  }
+}
