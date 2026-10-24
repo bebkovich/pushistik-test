@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "walk": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 367,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 367,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 367,
+        "h": 252
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9841
+      }
+    },
+    "walk2": {
+      "frame": {
+        "x": 520,
+        "y": 0,
+        "w": 365,
+        "h": 251
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 365,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 365,
+        "h": 251
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9841
+      }
+    },
+    "bow": {
+      "frame": {
+        "x": 1040,
+        "y": 0,
+        "w": 431,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 431,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 171
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9766
+      }
+    },
+    "jump": {
+      "frame": {
+        "x": 0,
+        "y": 362,
+        "w": 430,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 430,
+        "h": 229
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9825
+      }
+    },
+    "chew": {
+      "frame": {
+        "x": 520,
+        "y": 362,
+        "w": 427,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 427,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 427,
+        "h": 139
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9712
+      }
+    },
+    "sniff": {
+      "frame": {
+        "x": 1040,
+        "y": 362,
+        "w": 381,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 381,
+        "h": 255
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9843
+      }
+    },
+    "scratch": {
+      "frame": {
+        "x": 0,
+        "y": 724,
+        "w": 325,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 325,
+        "h": 362
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.989
+      }
+    },
+    "lie": {
+      "frame": {
+        "x": 520,
+        "y": 724,
+        "w": 520,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 194
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9794
+      }
+    },
+    "groom": {
+      "frame": {
+        "x": 1040,
+        "y": 724,
+        "w": 282,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 302
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9868
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-scottish-teen-act.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1560,
+      "h": 1086
+    },
+    "scale": "1"
+  }
+}

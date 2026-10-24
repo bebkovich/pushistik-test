@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 389,
+        "h": 430
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9907
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 485,
+        "y": 0,
+        "w": 437,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 437,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 437,
+        "h": 357
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9888
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 970,
+        "y": 0,
+        "w": 485,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 269
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9851
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 477,
+        "w": 431,
+        "h": 460
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 431,
+        "h": 460
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 460
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9913
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 485,
+        "y": 477,
+        "w": 343,
+        "h": 477
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 343,
+        "h": 477
+      },
+      "sourceSize": {
+        "w": 343,
+        "h": 477
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9916
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 970,
+        "y": 477,
+        "w": 481,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 481,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 481,
+        "h": 264
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9848
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-british.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1455,
+      "h": 954
+    },
+    "scale": "1"
+  }
+}

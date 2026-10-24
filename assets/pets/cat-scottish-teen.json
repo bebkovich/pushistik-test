@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 413
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 413
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 413
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9903
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 474,
+        "y": 0,
+        "w": 440,
+        "h": 359
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 440,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 359
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9889
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 948,
+        "y": 0,
+        "w": 460,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 271
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9852
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 460,
+        "w": 404,
+        "h": 454
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 404,
+        "h": 454
+      },
+      "sourceSize": {
+        "w": 404,
+        "h": 454
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 474,
+        "y": 460,
+        "w": 364,
+        "h": 460
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 460
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 460
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9913
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 948,
+        "y": 460,
+        "w": 474,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 474,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 474,
+        "h": 276
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9855
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-scottish-teen.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1422,
+      "h": 920
+    },
+    "scale": "1"
+  }
+}

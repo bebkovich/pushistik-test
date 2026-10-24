@@ -1,0 +1,85 @@
+{
+  "frames": {
+    "rug-cream": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 988,
+        "h": 344
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 988,
+        "h": 344
+      },
+      "sourceSize": {
+        "w": 988,
+        "h": 344
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9884
+      }
+    },
+    "rug-pink": {
+      "frame": {
+        "x": 0,
+        "y": 344,
+        "w": 988,
+        "h": 333
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 988,
+        "h": 333
+      },
+      "sourceSize": {
+        "w": 988,
+        "h": 333
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.988
+      }
+    },
+    "rug-stripes": {
+      "frame": {
+        "x": 0,
+        "y": 688,
+        "w": 1008,
+        "h": 304
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1008,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 1008,
+        "h": 304
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9868
+      }
+    }
+  },
+  "meta": {
+    "image": "living-rugs.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1008,
+      "h": 1032
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 345,
+        "h": 452
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 503,
+        "y": 0,
+        "w": 471,
+        "h": 375
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 471,
+        "h": 375
+      },
+      "sourceSize": {
+        "w": 471,
+        "h": 375
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9893
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 1006,
+        "y": 0,
+        "w": 503,
+        "h": 266
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 503,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 503,
+        "h": 266
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.985
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 500,
+        "w": 445,
+        "h": 476
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 445,
+        "h": 476
+      },
+      "sourceSize": {
+        "w": 445,
+        "h": 476
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9916
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 503,
+        "y": 500,
+        "w": 339,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 339,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 339,
+        "h": 500
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.992
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 1006,
+        "y": 500,
+        "w": 473,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 473,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 473,
+        "h": 274
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9854
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-siamese-teen.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1509,
+      "h": 1000
+    },
+    "scale": "1"
+  }
+}

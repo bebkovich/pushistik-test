@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 438
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 438
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9909
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 495,
+        "y": 0,
+        "w": 439,
+        "h": 382
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 382
+      },
+      "sourceSize": {
+        "w": 439,
+        "h": 382
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9895
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 990,
+        "y": 0,
+        "w": 495,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 284
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9859
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 473,
+        "w": 433,
+        "h": 465
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 433,
+        "h": 465
+      },
+      "sourceSize": {
+        "w": 433,
+        "h": 465
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9914
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 495,
+        "y": 473,
+        "w": 399,
+        "h": 473
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 399,
+        "h": 473
+      },
+      "sourceSize": {
+        "w": 399,
+        "h": 473
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9915
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 990,
+        "y": 473,
+        "w": 486,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 486,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 486,
+        "h": 273
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9853
+      }
+    }
+  },
+  "meta": {
+    "image": "dog-spitz.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1485,
+      "h": 946
+    },
+    "scale": "1"
+  }
+}
