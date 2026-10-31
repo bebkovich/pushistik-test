@@ -1,0 +1,62 @@
+{
+  "frames": {
+    "vanity-white": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 480
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 480
+      },
+      "sourceSize": {
+        "w": 381,
+        "h": 480
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "vanity-wood": {
+      "frame": {
+        "x": 383,
+        "y": 0,
+        "w": 376,
+        "h": 480
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 480
+      },
+      "sourceSize": {
+        "w": 376,
+        "h": 480
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "bedroom-vanity.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 759,
+      "h": 480
+    },
+    "scale": "1"
+  }
+}

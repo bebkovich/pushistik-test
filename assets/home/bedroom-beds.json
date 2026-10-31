@@ -1,0 +1,86 @@
+{
+  "frames": {
+    "bed-white": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 450
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-soft": {
+      "frame": {
+        "x": 462,
+        "y": 0,
+        "w": 460,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 432
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-wood": {
+      "frame": {
+        "x": 924,
+        "y": 0,
+        "w": 460,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 403
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "bedroom-beds.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1384,
+      "h": 450
+    },
+    "scale": "1"
+  }
+}

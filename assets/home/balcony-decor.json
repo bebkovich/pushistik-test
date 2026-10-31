@@ -1,0 +1,230 @@
+{
+  "frames": {
+    "hangplant": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 262,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 262,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 262,
+        "h": 400
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "flowerbox-geranium": {
+      "frame": {
+        "x": 264,
+        "y": 0,
+        "w": 520,
+        "h": 374
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 374
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 374
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "flowerbox-daisy": {
+      "frame": {
+        "x": 786,
+        "y": 0,
+        "w": 520,
+        "h": 368
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 368
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 368
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "flowerbox-petunia": {
+      "frame": {
+        "x": 1308,
+        "y": 0,
+        "w": 520,
+        "h": 353
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 353
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 353
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "chime": {
+      "frame": {
+        "x": 1830,
+        "y": 0,
+        "w": 113,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "lanterns": {
+      "frame": {
+        "x": 0,
+        "y": 402,
+        "w": 263,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "feeder": {
+      "frame": {
+        "x": 265,
+        "y": 402,
+        "w": 211,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 211,
+        "h": 260
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "lounger": {
+      "frame": {
+        "x": 478,
+        "y": 402,
+        "w": 420,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 243
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "festoon": {
+      "frame": {
+        "x": 900,
+        "y": 402,
+        "w": 640,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 204
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "balcony-decor.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1943,
+      "h": 702
+    },
+    "scale": "1"
+  }
+}

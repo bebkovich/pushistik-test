@@ -1,0 +1,254 @@
+{
+  "frames": {
+    "scratch-cactus": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "litter-house": {
+      "frame": {
+        "x": 187,
+        "y": 0,
+        "w": 280,
+        "h": 278
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 278
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-shell": {
+      "frame": {
+        "x": 469,
+        "y": 0,
+        "w": 300,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 245
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-crib": {
+      "frame": {
+        "x": 771,
+        "y": 0,
+        "w": 300,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 229
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "scratch-hammock": {
+      "frame": {
+        "x": 1073,
+        "y": 0,
+        "w": 280,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 228
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "leash-hearts": {
+      "frame": {
+        "x": 1355,
+        "y": 0,
+        "w": 220,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 204
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-donut": {
+      "frame": {
+        "x": 1577,
+        "y": 0,
+        "w": 300,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 181
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-cloud": {
+      "frame": {
+        "x": 0,
+        "y": 302,
+        "w": 300,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 181
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bowl-tray": {
+      "frame": {
+        "x": 302,
+        "y": 302,
+        "w": 360,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 178
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "harness": {
+      "frame": {
+        "x": 664,
+        "y": 302,
+        "w": 240,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 160
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop2-pet.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1877,
+      "h": 483
+    },
+    "scale": "1"
+  }
+}

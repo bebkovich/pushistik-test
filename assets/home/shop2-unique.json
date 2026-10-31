@@ -1,0 +1,206 @@
+{
+  "frames": {
+    "wheel-cloudlamp": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 440
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 440
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 440
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-starrug": {
+      "frame": {
+        "x": 189,
+        "y": 0,
+        "w": 988,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 988,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 988,
+        "h": 328
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-pumpkin": {
+      "frame": {
+        "x": 1179,
+        "y": 0,
+        "w": 360,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 301
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "throne-bed": {
+      "frame": {
+        "x": 1541,
+        "y": 0,
+        "w": 320,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 263
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-rainbowbed": {
+      "frame": {
+        "x": 0,
+        "y": 442,
+        "w": 320,
+        "h": 211
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 211
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "gold-bed": {
+      "frame": {
+        "x": 322,
+        "y": 442,
+        "w": 320,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 186
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-goldball": {
+      "frame": {
+        "x": 644,
+        "y": 442,
+        "w": 159,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 160
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-unicorn": {
+      "frame": {
+        "x": 805,
+        "y": 442,
+        "w": 150,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 128
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop2-unique.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1861,
+      "h": 653
+    },
+    "scale": "1"
+  }
+}

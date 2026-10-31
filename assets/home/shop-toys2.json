@@ -1,0 +1,158 @@
+{
+  "frames": {
+    "featherball": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 215,
+        "h": 220
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "teddy": {
+      "frame": {
+        "x": 217,
+        "y": 0,
+        "w": 199,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 220
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "balltrack": {
+      "frame": {
+        "x": 418,
+        "y": 0,
+        "w": 220,
+        "h": 214
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 214
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 214
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "carrot": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 220,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 198
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "butterfly": {
+      "frame": {
+        "x": 862,
+        "y": 0,
+        "w": 220,
+        "h": 182
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 182
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "catfish": {
+      "frame": {
+        "x": 1084,
+        "y": 0,
+        "w": 220,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 129
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop-toys2.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1304,
+      "h": 220
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "frames": {
+    "lamp-mushroom": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 440
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 440
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 440
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "lamp-fringe": {
+      "frame": {
+        "x": 182,
+        "y": 0,
+        "w": 225,
+        "h": 440
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 440
+      },
+      "sourceSize": {
+        "w": 225,
+        "h": 440
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pic-moon": {
+      "frame": {
+        "x": 409,
+        "y": 0,
+        "w": 173,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 220
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pic-sunflowers": {
+      "frame": {
+        "x": 584,
+        "y": 0,
+        "w": 172,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 172,
+        "h": 220
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pic-sea": {
+      "frame": {
+        "x": 758,
+        "y": 0,
+        "w": 240,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 205
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "vase-tulips": {
+      "frame": {
+        "x": 1000,
+        "y": 0,
+        "w": 197,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 200
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "vase-daisies": {
+      "frame": {
+        "x": 1199,
+        "y": 0,
+        "w": 167,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 200
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "vase-roses": {
+      "frame": {
+        "x": 1368,
+        "y": 0,
+        "w": 190,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 190,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 200
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "candles": {
+      "frame": {
+        "x": 1560,
+        "y": 0,
+        "w": 180,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 173
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "petphoto": {
+      "frame": {
+        "x": 1742,
+        "y": 0,
+        "w": 131,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 160
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "mantelgarland": {
+      "frame": {
+        "x": 0,
+        "y": 442,
+        "w": 360,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 149
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "cushion-cat": {
+      "frame": {
+        "x": 362,
+        "y": 442,
+        "w": 160,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 144
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "cushion-heart": {
+      "frame": {
+        "x": 524,
+        "y": 442,
+        "w": 160,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 137
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "decor2-living.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1873,
+      "h": 591
+    },
+    "scale": "1"
+  }
+}

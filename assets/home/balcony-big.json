@@ -1,0 +1,158 @@
+{
+  "frames": {
+    "lemon": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 354,
+        "h": 480
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 354,
+        "h": 480
+      },
+      "sourceSize": {
+        "w": 354,
+        "h": 480
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rocker-white": {
+      "frame": {
+        "x": 356,
+        "y": 0,
+        "w": 440,
+        "h": 438
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 440,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 438
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rocker-wicker": {
+      "frame": {
+        "x": 798,
+        "y": 0,
+        "w": 440,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 440,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 431
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "gfountain": {
+      "frame": {
+        "x": 1240,
+        "y": 0,
+        "w": 314,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 400
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "teatable-wood": {
+      "frame": {
+        "x": 1556,
+        "y": 0,
+        "w": 310,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 340
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "teatable-white": {
+      "frame": {
+        "x": 0,
+        "y": 482,
+        "w": 274,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 274,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 274,
+        "h": 340
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "balcony-big.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1866,
+      "h": 822
+    },
+    "scale": "1"
+  }
+}

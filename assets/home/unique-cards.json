@@ -1,0 +1,302 @@
+{
+  "frames": {
+    "wheel-goldball": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 200
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-cloudlamp": {
+      "frame": {
+        "x": 201,
+        "y": 0,
+        "w": 85,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 200
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-unicorn": {
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 200,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 171
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-pumpkin": {
+      "frame": {
+        "x": 490,
+        "y": 0,
+        "w": 200,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 167
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "throne-bed": {
+      "frame": {
+        "x": 692,
+        "y": 0,
+        "w": 200,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 164
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-rainbowbed": {
+      "frame": {
+        "x": 894,
+        "y": 0,
+        "w": 200,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 132
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "gold-bed": {
+      "frame": {
+        "x": 1096,
+        "y": 0,
+        "w": 200,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 117
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wheel-starrug": {
+      "frame": {
+        "x": 1298,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 66
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bowls-royal-cat": {
+      "frame": {
+        "x": 1500,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 66
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bowls-pearl-cat": {
+      "frame": {
+        "x": 1702,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 66
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bowls-royal-dog": {
+      "frame": {
+        "x": 0,
+        "y": 202,
+        "w": 200,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 63
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bowls-pearl-dog": {
+      "frame": {
+        "x": 202,
+        "y": 202,
+        "w": 200,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 62
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "unique-cards.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1902,
+      "h": 265
+    },
+    "scale": "1"
+  }
+}

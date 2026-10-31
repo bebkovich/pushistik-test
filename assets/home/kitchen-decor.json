@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "bowl-mat": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 304
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 304
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "kshelf": {
+      "frame": {
+        "x": 522,
+        "y": 0,
+        "w": 480,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 242
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "herbs": {
+      "frame": {
+        "x": 1004,
+        "y": 0,
+        "w": 380,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 380,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 380,
+        "h": 222
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "clock-teapot": {
+      "frame": {
+        "x": 1386,
+        "y": 0,
+        "w": 280,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 212
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fruit": {
+      "frame": {
+        "x": 1668,
+        "y": 0,
+        "w": 300,
+        "h": 210
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 210
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 210
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "kitchen-decor.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1968,
+      "h": 304
+    },
+    "scale": "1"
+  }
+}

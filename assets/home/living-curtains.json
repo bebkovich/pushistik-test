@@ -1,0 +1,109 @@
+{
+  "frames": {
+    "curtain-cream-l": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 956
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 956
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 956
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9958
+      }
+    },
+    "curtain-cream-r": {
+      "frame": {
+        "x": 317,
+        "y": 0,
+        "w": 316,
+        "h": 956
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 316,
+        "h": 956
+      },
+      "sourceSize": {
+        "w": 316,
+        "h": 956
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9958
+      }
+    },
+    "curtain-sage-l": {
+      "frame": {
+        "x": 634,
+        "y": 0,
+        "w": 314,
+        "h": 958
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 958
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 958
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9958
+      }
+    },
+    "curtain-sage-r": {
+      "frame": {
+        "x": 951,
+        "y": 0,
+        "w": 309,
+        "h": 958
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 309,
+        "h": 958
+      },
+      "sourceSize": {
+        "w": 309,
+        "h": 958
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9958
+      }
+    }
+  },
+  "meta": {
+    "image": "living-curtains.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1268,
+      "h": 958
+    },
+    "scale": "1"
+  }
+}

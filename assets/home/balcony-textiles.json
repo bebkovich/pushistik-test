@@ -1,0 +1,62 @@
+{
+  "frames": {
+    "balrug-jute": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 285
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 285
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 285
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "balrug-stripes": {
+      "frame": {
+        "x": 482,
+        "y": 0,
+        "w": 520,
+        "h": 217
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 217
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "balcony-textiles.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1002,
+      "h": 285
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "tower": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 304,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 304,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 304,
+        "h": 400
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "castle": {
+      "frame": {
+        "x": 306,
+        "y": 0,
+        "w": 360,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 296
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "slide": {
+      "frame": {
+        "x": 668,
+        "y": 0,
+        "w": 320,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 257
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "hammock": {
+      "frame": {
+        "x": 990,
+        "y": 0,
+        "w": 340,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 340,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 340,
+        "h": 249
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pool": {
+      "frame": {
+        "x": 1332,
+        "y": 0,
+        "w": 320,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 222
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop2-dream.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1652,
+      "h": 400
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "frames": {
+    "bplant": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 363,
+        "h": 460
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 363,
+        "h": 460
+      },
+      "sourceSize": {
+        "w": 363,
+        "h": 460
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "teepee": {
+      "frame": {
+        "x": 365,
+        "y": 0,
+        "w": 373,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 373,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 373,
+        "h": 420
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "nightstand-wood": {
+      "frame": {
+        "x": 740,
+        "y": 0,
+        "w": 221,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 221,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 221,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "nightstand-white": {
+      "frame": {
+        "x": 963,
+        "y": 0,
+        "w": 205,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "windowseat": {
+      "frame": {
+        "x": 1170,
+        "y": 0,
+        "w": 560,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 560,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 560,
+        "h": 218
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bench": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 380,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 380,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 380,
+        "h": 205
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "garland": {
+      "frame": {
+        "x": 382,
+        "y": 462,
+        "w": 520,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 149
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "bedroom-decor.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1730,
+      "h": 667
+    },
+    "scale": "1"
+  }
+}

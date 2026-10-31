@@ -1,0 +1,230 @@
+{
+  "frames": {
+    "tunnel": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 206
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "toybox": {
+      "frame": {
+        "x": 262,
+        "y": 0,
+        "w": 240,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 202
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "snuffle": {
+      "frame": {
+        "x": 504,
+        "y": 0,
+        "w": 260,
+        "h": 182
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 182
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "crinkle": {
+      "frame": {
+        "x": 766,
+        "y": 0,
+        "w": 180,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 180
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fox": {
+      "frame": {
+        "x": 948,
+        "y": 0,
+        "w": 220,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 165
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "windmouse": {
+      "frame": {
+        "x": 1170,
+        "y": 0,
+        "w": 200,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 151
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "springs": {
+      "frame": {
+        "x": 1372,
+        "y": 0,
+        "w": 200,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 147
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "sausage": {
+      "frame": {
+        "x": 1574,
+        "y": 0,
+        "w": 220,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 134
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ropeball": {
+      "frame": {
+        "x": 1796,
+        "y": 0,
+        "w": 220,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 126
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop2-toys.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2016,
+      "h": 206
+    },
+    "scale": "1"
+  }
+}

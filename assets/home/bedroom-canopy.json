@@ -1,0 +1,62 @@
+{
+  "frames": {
+    "canopy-white": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 470
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 470
+      },
+      "sourceSize": {
+        "w": 439,
+        "h": 470
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "canopy-rose": {
+      "frame": {
+        "x": 441,
+        "y": 0,
+        "w": 438,
+        "h": 470
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 438,
+        "h": 470
+      },
+      "sourceSize": {
+        "w": 438,
+        "h": 470
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "bedroom-canopy.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 879,
+      "h": 470
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "frames": {
+    "gem": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 264
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9848
+      }
+    }
+  },
+  "meta": {
+    "image": "gem.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 260,
+      "h": 264
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "krug-braid": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 760,
+        "h": 457
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 760,
+        "h": 457
+      },
+      "sourceSize": {
+        "w": 760,
+        "h": 457
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "krug-stripes": {
+      "frame": {
+        "x": 762,
+        "y": 0,
+        "w": 760,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 760,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 760,
+        "h": 331
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "kcurtain-dots": {
+      "frame": {
+        "x": 1524,
+        "y": 0,
+        "w": 480,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 328
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "kcurtain-gingham": {
+      "frame": {
+        "x": 0,
+        "y": 459,
+        "w": 480,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 324
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "kcurtain-lace": {
+      "frame": {
+        "x": 482,
+        "y": 459,
+        "w": 480,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 322
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "kitchen-textiles.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2004,
+      "h": 783
+    },
+    "scale": "1"
+  }
+}

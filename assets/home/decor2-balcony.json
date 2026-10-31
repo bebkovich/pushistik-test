@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "umbrella": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 410
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "lavender": {
+      "frame": {
+        "x": 462,
+        "y": 0,
+        "w": 300,
+        "h": 182
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 182
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "birdhouse": {
+      "frame": {
+        "x": 764,
+        "y": 0,
+        "w": 150,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 180
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rockerpillow": {
+      "frame": {
+        "x": 916,
+        "y": 0,
+        "w": 160,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 150
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "wateringcan": {
+      "frame": {
+        "x": 1078,
+        "y": 0,
+        "w": 180,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 146
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "decor2-balcony.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1258,
+      "h": 410
+    },
+    "scale": "1"
+  }
+}

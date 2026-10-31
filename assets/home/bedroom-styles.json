@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "reno": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 268
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "style-a": {
+      "frame": {
+        "x": 282,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 250
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "style-b": {
+      "frame": {
+        "x": 548,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 250
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "style-c": {
+      "frame": {
+        "x": 814,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 250
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "style-d": {
+      "frame": {
+        "x": 1080,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 250
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "bedroom-styles.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1344,
+      "h": 268
+    },
+    "scale": "1"
+  }
+}

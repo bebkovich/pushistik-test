@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "sit": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 408
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 408
+      },
+      "sourceSize": {
+        "w": 390,
+        "h": 408
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9902
+      }
+    },
+    "eat": {
+      "frame": {
+        "x": 475,
+        "y": 0,
+        "w": 433,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 433,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 433,
+        "h": 351
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9886
+      }
+    },
+    "sleep": {
+      "frame": {
+        "x": 950,
+        "y": 0,
+        "w": 460,
+        "h": 266
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 266
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.985
+      }
+    },
+    "play": {
+      "frame": {
+        "x": 0,
+        "y": 460,
+        "w": 404,
+        "h": 454
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 404,
+        "h": 454
+      },
+      "sourceSize": {
+        "w": 404,
+        "h": 454
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "happy": {
+      "frame": {
+        "x": 475,
+        "y": 460,
+        "w": 366,
+        "h": 460
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 366,
+        "h": 460
+      },
+      "sourceSize": {
+        "w": 366,
+        "h": 460
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9913
+      }
+    },
+    "bored": {
+      "frame": {
+        "x": 950,
+        "y": 460,
+        "w": 475,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 475,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 475,
+        "h": 271
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9852
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-scottish.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1425,
+      "h": 920
+    },
+    "scale": "1"
+  }
+}

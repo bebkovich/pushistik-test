@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "boxes": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 456,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 456,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 456,
+        "h": 397
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9899
+      }
+    },
+    "picture-leaves": {
+      "frame": {
+        "x": 487,
+        "y": 0,
+        "w": 329,
+        "h": 382
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 329,
+        "h": 382
+      },
+      "sourceSize": {
+        "w": 329,
+        "h": 382
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9895
+      }
+    },
+    "picture-sunset": {
+      "frame": {
+        "x": 974,
+        "y": 0,
+        "w": 402,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 402,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 402,
+        "h": 360
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9889
+      }
+    },
+    "flowers": {
+      "frame": {
+        "x": 0,
+        "y": 476,
+        "w": 378,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 378,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 378,
+        "h": 404
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9901
+      }
+    },
+    "table": {
+      "frame": {
+        "x": 487,
+        "y": 476,
+        "w": 280,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 455
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9912
+      }
+    },
+    "wallshelf": {
+      "frame": {
+        "x": 974,
+        "y": 476,
+        "w": 487,
+        "h": 476
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 476
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 476
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9916
+      }
+    }
+  },
+  "meta": {
+    "image": "living-decor.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1461,
+      "h": 952
+    },
+    "scale": "1"
+  }
+}

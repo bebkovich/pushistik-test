@@ -1,0 +1,181 @@
+{
+  "frames": {
+    "food-bag": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 208
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9808
+      }
+    },
+    "premium": {
+      "frame": {
+        "x": 228,
+        "y": 0,
+        "w": 198,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 208
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9808
+      }
+    },
+    "yarn": {
+      "frame": {
+        "x": 456,
+        "y": 0,
+        "w": 188,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 173
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9769
+      }
+    },
+    "wand": {
+      "frame": {
+        "x": 684,
+        "y": 0,
+        "w": 228,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 228,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 197
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9797
+      }
+    },
+    "hedgehog": {
+      "frame": {
+        "x": 912,
+        "y": 0,
+        "w": 198,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 195
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9795
+      }
+    },
+    "frisbee": {
+      "frame": {
+        "x": 1140,
+        "y": 0,
+        "w": 208,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 170
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9765
+      }
+    },
+    "fountain-card": {
+      "frame": {
+        "x": 1368,
+        "y": 0,
+        "w": 170,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 228
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9825
+      }
+    }
+  },
+  "meta": {
+    "image": "shop-toys.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1596,
+      "h": 228
+    },
+    "scale": "1"
+  }
+}

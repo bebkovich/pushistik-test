@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "fridge-mint": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 343,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 343,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 343,
+        "h": 520
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fridge-cream": {
+      "frame": {
+        "x": 345,
+        "y": 0,
+        "w": 345,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 345,
+        "h": 520
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fridge-pink": {
+      "frame": {
+        "x": 692,
+        "y": 0,
+        "w": 344,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 344,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 344,
+        "h": 520
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "stove-mint": {
+      "frame": {
+        "x": 1038,
+        "y": 0,
+        "w": 302,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 302,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 400
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "stove-cream": {
+      "frame": {
+        "x": 1342,
+        "y": 0,
+        "w": 302,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 302,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 400
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "kitchen-big.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1644,
+      "h": 520
+    },
+    "scale": "1"
+  }
+}

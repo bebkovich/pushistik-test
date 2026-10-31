@@ -1,0 +1,230 @@
+{
+  "frames": {
+    "palace-cat": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 420
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "palace-dog": {
+      "frame": {
+        "x": 273,
+        "y": 0,
+        "w": 380,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 380,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 380,
+        "h": 306
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-swan": {
+      "frame": {
+        "x": 655,
+        "y": 0,
+        "w": 320,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 295
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bed-crown": {
+      "frame": {
+        "x": 977,
+        "y": 0,
+        "w": 320,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 256
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bubbles": {
+      "frame": {
+        "x": 1299,
+        "y": 0,
+        "w": 200,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 191
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "starlight": {
+      "frame": {
+        "x": 1501,
+        "y": 0,
+        "w": 180,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 141
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "butterfly-2": {
+      "frame": {
+        "x": 1683,
+        "y": 0,
+        "w": 110,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 86
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "butterfly-1": {
+      "frame": {
+        "x": 1795,
+        "y": 0,
+        "w": 110,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 85
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "butterfly-3": {
+      "frame": {
+        "x": 1907,
+        "y": 0,
+        "w": 110,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 85
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "shop2-gems.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2017,
+      "h": 420
+    },
+    "scale": "1"
+  }
+}

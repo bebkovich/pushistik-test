@@ -1,0 +1,62 @@
+{
+  "frames": {
+    "fireplace-white": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 307
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fireplace-brick": {
+      "frame": {
+        "x": 422,
+        "y": 0,
+        "w": 420,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 306
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "living-fireplace.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 842,
+      "h": 307
+    },
+    "scale": "1"
+  }
+}

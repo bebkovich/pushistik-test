@@ -1,0 +1,157 @@
+{
+  "frames": {
+    "coin": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 157,
+        "h": 156
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9744
+      }
+    },
+    "heart": {
+      "frame": {
+        "x": 164,
+        "y": 0,
+        "w": 164,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 134
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9701
+      }
+    },
+    "gift": {
+      "frame": {
+        "x": 328,
+        "y": 0,
+        "w": 163,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 162
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9753
+      }
+    },
+    "bag": {
+      "frame": {
+        "x": 0,
+        "y": 168,
+        "w": 160,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 168
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9762
+      }
+    },
+    "paw": {
+      "frame": {
+        "x": 164,
+        "y": 168,
+        "w": 159,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 146
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9726
+      }
+    },
+    "star": {
+      "frame": {
+        "x": 328,
+        "y": 168,
+        "w": 156,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 152
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9737
+      }
+    }
+  },
+  "meta": {
+    "image": "ui-icons.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 492,
+      "h": 336
+    },
+    "scale": "1"
+  }
+}

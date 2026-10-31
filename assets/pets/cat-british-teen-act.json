@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "walk": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 406,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 406,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 406,
+        "h": 291
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9863
+      }
+    },
+    "walk2": {
+      "frame": {
+        "x": 520,
+        "y": 0,
+        "w": 412,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 290
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9862
+      }
+    },
+    "bow": {
+      "frame": {
+        "x": 1040,
+        "y": 0,
+        "w": 465,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 221
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9819
+      }
+    },
+    "jump": {
+      "frame": {
+        "x": 0,
+        "y": 411,
+        "w": 485,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 260
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9846
+      }
+    },
+    "chew": {
+      "frame": {
+        "x": 520,
+        "y": 411,
+        "w": 474,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 474,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 474,
+        "h": 148
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.973
+      }
+    },
+    "sniff": {
+      "frame": {
+        "x": 1040,
+        "y": 411,
+        "w": 433,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 433,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 433,
+        "h": 288
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9861
+      }
+    },
+    "scratch": {
+      "frame": {
+        "x": 0,
+        "y": 822,
+        "w": 375,
+        "h": 411
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 375,
+        "h": 411
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9903
+      }
+    },
+    "lie": {
+      "frame": {
+        "x": 520,
+        "y": 822,
+        "w": 520,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 255
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9843
+      }
+    },
+    "groom": {
+      "frame": {
+        "x": 1040,
+        "y": 822,
+        "w": 324,
+        "h": 315
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 315
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 315
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9873
+      }
+    }
+  },
+  "meta": {
+    "image": "cat-british-teen-act.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1560,
+      "h": 1233
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "pic-dreams": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 205
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "bedpillows": {
+      "frame": {
+        "x": 242,
+        "y": 0,
+        "w": 220,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 164
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "moonlight": {
+      "frame": {
+        "x": 464,
+        "y": 0,
+        "w": 118,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 150
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "jewelbox": {
+      "frame": {
+        "x": 584,
+        "y": 0,
+        "w": 150,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 145
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "slippers": {
+      "frame": {
+        "x": 736,
+        "y": 0,
+        "w": 180,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 126
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "decor2-bedroom.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 916,
+      "h": 205
+    },
+    "scale": "1"
+  }
+}

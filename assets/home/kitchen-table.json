@@ -1,0 +1,158 @@
+{
+  "frames": {
+    "pendant-wicker": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 340
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pendant-fringe": {
+      "frame": {
+        "x": 284,
+        "y": 0,
+        "w": 322,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 322,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 322,
+        "h": 340
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "pendant-bell": {
+      "frame": {
+        "x": 608,
+        "y": 0,
+        "w": 299,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 299,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 299,
+        "h": 340
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "table-wood": {
+      "frame": {
+        "x": 909,
+        "y": 0,
+        "w": 480,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 306
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "table-mint": {
+      "frame": {
+        "x": 1391,
+        "y": 0,
+        "w": 480,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 301
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "clock-wood": {
+      "frame": {
+        "x": 0,
+        "y": 342,
+        "w": 238,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 238,
+        "h": 240
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "tools/kitchen-art.py",
+    "image": "kitchen-table.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1871,
+      "h": 582
+    },
+    "scale": "1"
+  }
+}

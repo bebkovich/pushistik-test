@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "bed-basket": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 228
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9825
+      }
+    },
+    "bed-sofa": {
+      "frame": {
+        "x": 308,
+        "y": 0,
+        "w": 308,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 226
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9823
+      }
+    },
+    "fountain": {
+      "frame": {
+        "x": 616,
+        "y": 0,
+        "w": 213,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 268
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9851
+      }
+    },
+    "aquarium": {
+      "frame": {
+        "x": 924,
+        "y": 0,
+        "w": 300,
+        "h": 308
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 308
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 308
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.987
+      }
+    },
+    "kennel": {
+      "frame": {
+        "x": 1232,
+        "y": 0,
+        "w": 308,
+        "h": 285
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 285
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 285
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.986
+      }
+    },
+    "ceramic-cat-empty": {
+      "frame": {
+        "x": 1540,
+        "y": 0,
+        "w": 300,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 207
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9807
+      }
+    },
+    "ceramic-cat-full": {
+      "frame": {
+        "x": 1848,
+        "y": 0,
+        "w": 300,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 205
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9805
+      }
+    },
+    "ceramic-dog-empty": {
+      "frame": {
+        "x": 2156,
+        "y": 0,
+        "w": 256,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 170
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9765
+      }
+    },
+    "ceramic-dog-full": {
+      "frame": {
+        "x": 2464,
+        "y": 0,
+        "w": 256,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 167
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.976
+      }
+    }
+  },
+  "meta": {
+    "image": "shop.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2772,
+      "h": 308
+    },
+    "scale": "1"
+  }
+}
